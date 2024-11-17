@@ -7,7 +7,7 @@
 
 📌 Experiência:
 - Criação de sistemas para extração de medidas corporais 3D com Python e Open3D.
-- Desenvolvimento de aplicações web colaborativas com foco em usabilidade e performance.
+- Desenvolvimento de aplicações web, com foco em usabilidade e performance.
 
 🌱 Atualmente a aprofundar conhecimentos em:
 - Inteligência Artificial e Machine Learning.
