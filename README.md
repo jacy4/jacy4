@@ -13,7 +13,7 @@
 - Inteligência Artificial e Machine Learning.
 - Desenvolvimento de front-end com **React** e design responsivo.
 
-💼 Procurando colaborar em projetos inovadores ou oportunidades para contribuir para o mundo da tecnologia.
+💼 Quero colaborar em projetos inovadores, que contribuam para melhorar as minhas capacidades e conehcimentos.
 
 🔗[Email](jacinta2004granjo@gmail.com)
 <!--
