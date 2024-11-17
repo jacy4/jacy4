@@ -6,14 +6,13 @@
 - Visão Computacional e Machine Learning aplicado a projetos reais.
 
 📌 Experiência:
-- Criação de sistemas para extração de medidas corporais 3D com Python e Open3D.
+- Criação de métodos para extração de medidas corporais 3D, com Python e Open3D.
 - Desenvolvimento de aplicações web, com foco em usabilidade e performance.
 
 🌱 Atualmente a aprofundar conhecimentos em:
 - Inteligência Artificial e Machine Learning.
-- Desenvolvimento de front-end com **React** e design responsivo.
-
-💼 Quero colaborar em projetos inovadores, que contribuam para melhorar as minhas capacidades e conehcimentos.
+  
+💼 Quero colaborar em projetos inovadores, que contribuam para melhorar as minhas capacidades e conhecimentos.
 
 🔗[Email](jacinta2004granjo@gmail.com)
 <!--
